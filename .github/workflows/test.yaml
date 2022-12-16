@@ -12,3 +12,4 @@ jobs:
           distribution: 'zulu' # See 'Supported distributions' for available options
           java-version: '11'
       - run: ./gradlew clean test
+//  добавляем изменения
