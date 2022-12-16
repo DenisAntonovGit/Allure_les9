@@ -26,3 +26,5 @@ public class SelenideTest {
         $(withText("#80")).should(Condition.exist);
     }
 }
+
+// Комментарий для проверки
