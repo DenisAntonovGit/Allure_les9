@@ -1,0 +1,8 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sun Dec 18 11:14:46 GMT 2022","Sun Dec 18 11:14:46 GMT 2022","14","","com.denisantonov.allure.LabelsTest","","com.denisantonov.allure.LabelsTest","testDynamicLabels","Cоздание Issue для авторизованного пользователя",""
+"passed","Sun Dec 18 11:14:35 GMT 2022","Sun Dec 18 11:14:43 GMT 2022","7785","","com.denisantonov.allure.SelenideTest","","com.denisantonov.allure.SelenideTest","testIssueSearch","testIssueSearch()",""
+"passed","Sun Dec 18 11:14:44 GMT 2022","Sun Dec 18 11:14:46 GMT 2022","2238","","com.denisantonov.allure.AttachmentsTest","","com.denisantonov.allure.AttachmentsTest","testAnnotatedAttachments","testAnnotatedAttachments()",""
+"passed","Sun Dec 18 11:14:50 GMT 2022","Sun Dec 18 11:14:52 GMT 2022","2501","","com.denisantonov.allure.StepsTest","","com.denisantonov.allure.StepsTest","testLambdaStep","testLambdaStep()",""
+"passed","Sun Dec 18 11:14:46 GMT 2022","Sun Dec 18 11:14:46 GMT 2022","4","","com.denisantonov.allure.LabelsTest","","com.denisantonov.allure.LabelsTest","testStaticLabels","Cоздание Issue для авторизованного пользователя",""
+"passed","Sun Dec 18 11:14:46 GMT 2022","Sun Dec 18 11:14:50 GMT 2022","3369","","com.denisantonov.allure.StepsTest","","com.denisantonov.allure.StepsTest","testAnnotatedStep","testAnnotatedStep()",""
+"passed","Sun Dec 18 11:14:43 GMT 2022","Sun Dec 18 11:14:44 GMT 2022","533","","com.denisantonov.allure.AttachmentsTest","","com.denisantonov.allure.AttachmentsTest","testLambdaAttachments","testLambdaAttachments()",""
