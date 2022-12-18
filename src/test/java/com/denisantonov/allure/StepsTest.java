@@ -13,8 +13,8 @@ import static org.openqa.selenium.By.linkText;
 
 public class StepsTest {
 
-    private static final String REPOSITORY = "eroshenkoam/allure-example";
-    private static final int ISSUE = 80;
+    private static final String REPOSITORY = "ahtung13/Allure_les9";
+    private static final String ISSUE = "Issuefortest";
 
     @Test
     public void testLambdaStep() {
@@ -47,7 +47,7 @@ public class StepsTest {
         steps.searchForRepository(REPOSITORY);
         steps.clickOnRepositoryLink(REPOSITORY);
         steps.openIssuesTab();
-        steps.shouldSeeIssueWithNumber(ISSUE);
+        steps.shouldSeeIssueWithIssueName(ISSUE);
 
 
     }
