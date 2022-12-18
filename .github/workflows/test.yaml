@@ -5,7 +5,7 @@ on: [push]
 jobs:
   test:
     # Где запускаем
-    runs-on: macos-10.15
+    runs-on: ubuntu-latest
     # Что делаем
     steps:
       # Выкачиваем репозиторий
